@@ -1,0 +1,14 @@
+/home/juny/myApps/HDataSet/HDataSetApi/obj/Debug/netcoreapp2.2/HDataSetApi.csprojAssemblyReference.cache
+/home/juny/myApps/HDataSet/HDataSetApi/obj/Debug/netcoreapp2.2/HDataSetApi.csproj.CoreCompileInputs.cache
+/home/juny/myApps/HDataSet/HDataSetApi/obj/Debug/netcoreapp2.2/HDataSetApi.RazorAssemblyInfo.cache
+/home/juny/myApps/HDataSet/HDataSetApi/obj/Debug/netcoreapp2.2/HDataSetApi.RazorAssemblyInfo.cs
+/home/juny/myApps/HDataSet/HDataSetApi/obj/Debug/netcoreapp2.2/HDataSetApi.AssemblyInfoInputs.cache
+/home/juny/myApps/HDataSet/HDataSetApi/obj/Debug/netcoreapp2.2/HDataSetApi.AssemblyInfo.cs
+/home/juny/myApps/HDataSet/HDataSetApi/bin/Debug/netcoreapp2.2/HDataSetApi.deps.json
+/home/juny/myApps/HDataSet/HDataSetApi/bin/Debug/netcoreapp2.2/HDataSetApi.runtimeconfig.json
+/home/juny/myApps/HDataSet/HDataSetApi/bin/Debug/netcoreapp2.2/HDataSetApi.runtimeconfig.dev.json
+/home/juny/myApps/HDataSet/HDataSetApi/bin/Debug/netcoreapp2.2/HDataSetApi.dll
+/home/juny/myApps/HDataSet/HDataSetApi/bin/Debug/netcoreapp2.2/HDataSetApi.pdb
+/home/juny/myApps/HDataSet/HDataSetApi/obj/Debug/netcoreapp2.2/HDataSetApi.RazorTargetAssemblyInfo.cache
+/home/juny/myApps/HDataSet/HDataSetApi/obj/Debug/netcoreapp2.2/HDataSetApi.dll
+/home/juny/myApps/HDataSet/HDataSetApi/obj/Debug/netcoreapp2.2/HDataSetApi.pdb
